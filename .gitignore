@@ -1,0 +1,4 @@
+bin/
+*.class
+.metadata/
+src/DatabaseDetails/DbInfo.java
